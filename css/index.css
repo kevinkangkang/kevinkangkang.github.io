@@ -1919,6 +1919,7 @@ blockquote footer cite:before {
 }
 #vcomment textarea {
   font-size: 0.7rem;
+  background: url("/img/comment.gif") 100% 100% no-repeat;
 }
 #vcomment .info {
   display: none;
