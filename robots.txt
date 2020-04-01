@@ -11,5 +11,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: http://www.songit.cn/sitemap.xml
-Sitemap: http://www.songit.cn/baidusitemap.xml
+Sitemap: https://kevinkangkang.fun/sitemap.xml
+Sitemap: https://kevinkangkang.fun/baidusitemap.xml
