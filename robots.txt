@@ -3,6 +3,8 @@ Allow: /
 Allow: /archives/
 Allow: /categories/
 Allow: /tags/
+Allow: /books/
+Allow: /movies/
 
 Disallow: /_data/
 Disallow: /js/
@@ -11,5 +13,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://kevinkangkang.fun/sitemap.xml
-Sitemap: https://kevinkangkang.fun/baidusitemap.xml
+Sitemap: https://kevinkangkang.site/sitemap.xml
+Sitemap: https://kevinkangkang.site/baidusitemap.xml
